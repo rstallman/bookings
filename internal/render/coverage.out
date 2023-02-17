@@ -1,0 +1,23 @@
+mode: set
+github.com/rstallman/bookings/internal/render/render.go:23.40,25.2 1 1
+github.com/rstallman/bookings/internal/render/render.go:27.84,33.2 5 1
+github.com/rstallman/bookings/internal/render/render.go:35.105,37.18 2 1
+github.com/rstallman/bookings/internal/render/render.go:45.2,46.9 2 1
+github.com/rstallman/bookings/internal/render/render.go:51.2,57.16 5 1
+github.com/rstallman/bookings/internal/render/render.go:62.2,62.12 1 1
+github.com/rstallman/bookings/internal/render/render.go:37.18,40.3 1 0
+github.com/rstallman/bookings/internal/render/render.go:40.8,42.3 1 1
+github.com/rstallman/bookings/internal/render/render.go:46.9,49.3 1 1
+github.com/rstallman/bookings/internal/render/render.go:57.16,60.3 2 0
+github.com/rstallman/bookings/internal/render/render.go:65.67,71.16 3 1
+github.com/rstallman/bookings/internal/render/render.go:76.2,76.29 1 1
+github.com/rstallman/bookings/internal/render/render.go:99.2,99.21 1 1
+github.com/rstallman/bookings/internal/render/render.go:71.16,73.3 1 0
+github.com/rstallman/bookings/internal/render/render.go:76.29,79.17 3 1
+github.com/rstallman/bookings/internal/render/render.go:83.3,85.17 2 1
+github.com/rstallman/bookings/internal/render/render.go:89.3,89.23 1 1
+github.com/rstallman/bookings/internal/render/render.go:96.3,96.21 1 1
+github.com/rstallman/bookings/internal/render/render.go:79.17,81.4 1 0
+github.com/rstallman/bookings/internal/render/render.go:85.17,87.4 1 0
+github.com/rstallman/bookings/internal/render/render.go:89.23,91.18 2 1
+github.com/rstallman/bookings/internal/render/render.go:91.18,93.5 1 0

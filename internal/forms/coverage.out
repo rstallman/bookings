@@ -1,0 +1,16 @@
+mode: set
+github.com/rstallman/bookings/internal/forms/errors.go:6.44,9.2 1 1
+github.com/rstallman/bookings/internal/forms/errors.go:12.42,14.18 2 1
+github.com/rstallman/bookings/internal/forms/errors.go:18.2,18.14 1 1
+github.com/rstallman/bookings/internal/forms/errors.go:14.18,16.3 1 1
+github.com/rstallman/bookings/internal/forms/forms.go:18.33,23.2 1 1
+github.com/rstallman/bookings/internal/forms/forms.go:26.43,27.31 1 1
+github.com/rstallman/bookings/internal/forms/forms.go:27.31,29.37 2 1
+github.com/rstallman/bookings/internal/forms/forms.go:29.37,31.4 1 1
+github.com/rstallman/bookings/internal/forms/forms.go:36.39,39.2 2 1
+github.com/rstallman/bookings/internal/forms/forms.go:42.29,44.2 1 1
+github.com/rstallman/bookings/internal/forms/forms.go:47.57,49.21 2 1
+github.com/rstallman/bookings/internal/forms/forms.go:54.2,54.13 1 1
+github.com/rstallman/bookings/internal/forms/forms.go:49.21,52.3 2 1
+github.com/rstallman/bookings/internal/forms/forms.go:58.38,59.40 1 1
+github.com/rstallman/bookings/internal/forms/forms.go:59.40,61.3 1 1

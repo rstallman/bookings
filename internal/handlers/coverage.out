@@ -1,0 +1,24 @@
+mode: set
+github.com/rstallman/bookings/internal/handlers/handler.go:22.47,26.2 1 1
+github.com/rstallman/bookings/internal/handlers/handler.go:29.33,31.2 1 1
+github.com/rstallman/bookings/internal/handlers/handler.go:34.67,39.2 3 1
+github.com/rstallman/bookings/internal/handlers/handler.go:42.68,48.21 3 1
+github.com/rstallman/bookings/internal/handlers/handler.go:51.2,52.92 2 1
+github.com/rstallman/bookings/internal/handlers/handler.go:48.21,50.3 1 1
+github.com/rstallman/bookings/internal/handlers/handler.go:56.74,67.2 4 1
+github.com/rstallman/bookings/internal/handlers/handler.go:70.78,72.16 2 1
+github.com/rstallman/bookings/internal/handlers/handler.go:77.2,90.19 6 1
+github.com/rstallman/bookings/internal/handlers/handler.go:101.2,103.66 2 0
+github.com/rstallman/bookings/internal/handlers/handler.go:72.16,75.3 2 0
+github.com/rstallman/bookings/internal/handlers/handler.go:90.19,99.3 4 1
+github.com/rstallman/bookings/internal/handlers/handler.go:107.71,109.2 1 1
+github.com/rstallman/bookings/internal/handlers/handler.go:112.69,114.2 1 1
+github.com/rstallman/bookings/internal/handlers/handler.go:117.75,119.2 1 1
+github.com/rstallman/bookings/internal/handlers/handler.go:122.79,127.2 3 1
+github.com/rstallman/bookings/internal/handlers/handler.go:135.79,141.16 3 1
+github.com/rstallman/bookings/internal/handlers/handler.go:145.2,146.14 2 1
+github.com/rstallman/bookings/internal/handlers/handler.go:141.16,143.3 1 0
+github.com/rstallman/bookings/internal/handlers/handler.go:151.70,153.2 1 1
+github.com/rstallman/bookings/internal/handlers/handler.go:156.81,159.9 2 0
+github.com/rstallman/bookings/internal/handlers/handler.go:166.2,174.4 3 0
+github.com/rstallman/bookings/internal/handlers/handler.go:159.9,164.3 4 0

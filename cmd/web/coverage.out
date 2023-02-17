@@ -1,0 +1,10 @@
+mode: set
+github.com/rstallman/bookings/cmd/web/main.go:22.13,26.16 2 0
+github.com/rstallman/bookings/cmd/web/main.go:30.2,38.16 4 0
+github.com/rstallman/bookings/cmd/web/main.go:26.16,28.3 1 0
+github.com/rstallman/bookings/cmd/web/main.go:41.18,58.16 10 1
+github.com/rstallman/bookings/cmd/web/main.go:62.2,70.12 6 1
+github.com/rstallman/bookings/cmd/web/main.go:58.16,61.3 2 0
+github.com/rstallman/bookings/cmd/web/middleware.go:10.45,19.2 3 1
+github.com/rstallman/bookings/cmd/web/middleware.go:22.50,24.2 1 1
+github.com/rstallman/bookings/cmd/web/routes.go:12.49,37.2 18 1
